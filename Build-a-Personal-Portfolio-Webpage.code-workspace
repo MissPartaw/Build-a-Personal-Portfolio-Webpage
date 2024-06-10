@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Tribute page/Tribute-Page/.github"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Build-a-Personal-Portfolio-Webpage",
+		"liveServer.settings.port": 5501
+	}
+}
